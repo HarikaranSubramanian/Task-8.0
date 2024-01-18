@@ -28,4 +28,8 @@ This repository contains the code for a simple events home page. The page allows
 1. Clone the repository.
 2. Open `index.html` in a web browser to view the events home page.
 
+## Deployment
+
+The project is deployed on Netlify. You can view it [here](https://netflify-event-search.netlify.app).
+
 Feel free to customize the code to suit your specific needs. If you have any questions or suggestions, please feel free to reach out.
